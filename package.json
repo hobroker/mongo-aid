@@ -6,7 +6,6 @@
   "type": "module",
   "scripts": {
     "backup": "node src/index.js",
-    "sync": "node src/gcs/getBucket.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
